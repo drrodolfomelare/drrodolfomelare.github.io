@@ -6,8 +6,6 @@ Economista, pós graduado em direito processual do trabalho e cientista de dados
 
 # Site Desenvolvido:
 
-	<p style="text-align: left;"><a href="https://drrodolfomelare.github.io/">Dr.Rodolfo Melare</a></p>
-
 
 # Credits:
 
