@@ -1637,10 +1637,15 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.image.fit1 {
+			display: inline-block;
+			width: 100%;
+		}
+
 		.image.featured {
 			display: block;
 			width: 100%;
-			margin: 0 0 2em 0;
+			margin: 2 2 2 2 ;
 		}
 
 		.image.left {
