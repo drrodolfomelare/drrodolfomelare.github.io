@@ -8,11 +8,11 @@ Economista, pós graduado em direito processual do trabalho e cientista de dados
 
 # Credits:
 
-	* Sie:
-		www.rodolfoterra.com
+ * Sie:
+	* ![www.rodolfoterra.com](www.rodolfoterra.com)
 
-	* in:
+ * in:
 		https://www.linkedin.com/in/rodolffoterra/
 
-	* GitHub:
+ * GitHub:
 		https://github.com/rodolffoterra
