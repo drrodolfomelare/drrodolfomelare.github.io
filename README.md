@@ -19,3 +19,5 @@ Economista, pós graduado em direito processual do trabalho e cientista de dados
    
  * GitHub:
 	<p style="text-align: left;"><a href="https://github.com/rodolffoterra">GitHub</a></p>
+
+ ![Ciência de Dados](https://raw.githubusercontent.com/rodolffoterra/Project_KPIs/main/imagem/logo.png)
