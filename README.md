@@ -11,13 +11,10 @@ Economista, pós graduado em direito processual do trabalho e cientista de dados
 
 # Credits:
 
- * Sie:
-	<p style="text-align: left;"><a href="http://www.rodolfoterra.com">Rodolfo Terra</a></p>
+ * Site:     <a href="http://www.rodolfoterra.com">Rodolfo Terra</a>
 
- * in:
-	<p style="text-align: left;"><a href="https://www.linkedin.com/in/rodolffoterra/">Linkedin</a></p>
+ * Linkedin:       <a href="https://www.linkedin.com/in/rodolffoterra/">In</a>
    
- * GitHub:
-	<p style="text-align: left;"><a href="https://github.com/rodolffoterra">GitHub</a></p>
+ * GitHub:   <a href="https://github.com/rodolffoterra">GitHub</a>
 
  ![Ciência de Dados](https://raw.githubusercontent.com/rodolffoterra/Project_KPIs/main/imagem/logo.png)
